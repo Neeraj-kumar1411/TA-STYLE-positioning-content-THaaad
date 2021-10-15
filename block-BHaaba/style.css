@@ -128,11 +128,13 @@ table {
   border-spacing: 0;
 }
 /*  custom style*/
+.material-icons {
+}
 .header {
   height: 100px;
   background-color: rgb(3, 3, 39);
 }
-.altcampus-nav {
+.altcampus-div {
   width: 180px;
   margin-left: 10%;
 }
@@ -194,10 +196,19 @@ h1 {
 }
 .footer {
   font-size: 30px;
-  text-align: right;
+  text-align: center;
   height: 80px;
   vertical-align: -webkit-baseline-middle;
   background-color: green;
   clear: both;
   margin-bottom: 10px;
+}
+.fab {
+  color: rgb(15, 11, 206);
+}
+.insta {
+  color: rgb(212, 94, 134);
+}
+.twit {
+  color: #59acbf;
 }
