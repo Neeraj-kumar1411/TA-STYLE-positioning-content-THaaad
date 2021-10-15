@@ -163,14 +163,17 @@ height: 800px;
 border: 1px solid black; */
 /* } */
 .container {
+  background-color: slateblue;
 }
-main {
+
+.main {
   margin: 0 auto;
+  background-color: rgb(156, 149, 207);
 }
+
 .div {
   width: 30%;
   height: 70%;
-  border: 1px solid black;
   float: left;
   margin: 1.5%;
   /* clear: right; */
@@ -190,9 +193,11 @@ main {
 }
 h1 {
   font-size: 50px;
+  color: grey;
 }
 .para {
   font-size: 32px;
+  color: rgb(202, 153, 248);
 }
 .footer {
   font-size: 30px;
